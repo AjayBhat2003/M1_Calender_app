@@ -8,7 +8,7 @@
 ##  High level requirements
 * Availability Of The Product.
 * Billing of the purchased product.
-* Invpice of the product.
+* Invoice of the product.
 
 ## Low level Requirements
 # Availability of product 
