@@ -29,25 +29,25 @@
 ## SWOT Analysis
 
 # Strength
-*Give present availablity of the product to its customer.
-*Print the bill and invoice of the product.
-*System can be designed using C.
-*Use of virtual studio code ide for implementation.
+* Give present availablity of the product to its customer.
+* Print the bill and invoice of the product.
+* System can be designed using C.
+* Use of virtual studio code ide for implementation.
 
 # Weakness
-*Numerous parameter to be considered for billing for adding taxes.
-*Addition of new product details.
+*  Numerous parameter to be considered for billing for adding taxes.
+*  Addition of new product details.
 
 # Opportunity
-*Give exact information of product availability,price.
-*Billing is more easier than manual billing.
-*Product Stock details is avilable for administrator.
+* Give exact information of product availability,price.
+* Billing is more easier than manual billing.
+* Product  details is avilable for administrator.
 
 # Threat
-*Any corruption in the system may cause erase of complete file.
-*Malaware and any other virus attack on the system.
+* Any corruption in the system may cause erase of complete file.
+* Malaware and any other virus attack on the system.
 
 ## 5W & 1H
-
+#
 
 
