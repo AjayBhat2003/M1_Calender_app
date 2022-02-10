@@ -6,25 +6,25 @@
 ## Requirements
 
 ##  High level requirements
-*Availability Of The Product.
-*Billing of the purchased product.
-*Invpice of the product.
+* Availability Of The Product.
+* Billing of the purchased product.
+* Invoice of the product.
 
 ## Low level Requirements
 # Availability of product 
-1)Quantity of the product.
-2)Product name
+1) Quantity of the product.
+2) Product name
 
 # Billing of the product
-1)Product name
-2)Price of product.
-3)Quantity of product purchased.
+1) Product name
+2) Price of product.
+3) Quantity of product purchased.
 
 # Invoice of the product
-1)Product no
-2)Prduct name
-3)Price
-4)Quantity
+1) Product no
+2) Prduct name
+3) Price
+4) Quantity
 
 ## SWOT Analysis
 
@@ -35,13 +35,22 @@
 * Use of virtual studio code ide for implementation.
 
 # Weakness
+<<<<<<< HEAD
 *  Numerous parameter to be considered for billing for adding taxes.
 *  Addition of new product details.
+=======
+* Numerous parameter to be considered for billing for adding taxes.
+* Addition of new product details.
+>>>>>>> eff5ac6cfede382f81053505d8c492ac6b4f2cc6
 
 # Opportunity
 * Give exact information of product availability,price.
 * Billing is more easier than manual billing.
+<<<<<<< HEAD
 * Product  details is avilable for administrator.
+=======
+* Product Stock details is avilable for administrator.
+>>>>>>> eff5ac6cfede382f81053505d8c492ac6b4f2cc6
 
 # Threat
 * Any corruption in the system may cause erase of complete file.
