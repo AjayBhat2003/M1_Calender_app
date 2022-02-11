@@ -1,65 +1,70 @@
 # Description
- * Medical Store Project is a simple application designed to demonstarte the use of C progamming
-  Knowledge and its feature as well as to generate an application which can be used in medical store,hospitals
+ * It is the application to display the month by month calender for a input year.For a given year Display the month by month calender 
 ## Requirements
 
+# Feature
+* Display Date and week of the month.
+* Display Leap Year . 
+
 ##  High level requirements
-* Availability Of The Medicine.
-* Medicine Information.
-* Purchase of Medicine.
+* Function that return index of day for date dd/mm/yy
+* Function that returns the name of the month for given number.
+* Function that return number of days in a month
+* Function to print the calender.  
 
 ## Low level Requirements
-# Availability of medicine
-1)Stock availability
-2) Price 
-3) Available Quantity
+# Function that return index of day for date dd/mm/yy
+* Month name,
+* Month Number
 
-# Medicine Information
-1) Manufacture Date
-2) Expiry date
-3) Company Name
+# Function that returns the name of the month for given number.
+* Month name
+* Month number
 
-# Purchase of the product
-1) Medicine price
-2) Medicine name
+
+#  Function that return number of days in a month
+* Month number
+* year
+
+# Function to print the calender.  
+* year
+* Month name
+* Day Number
 
 
 ## SWOT Analysis
 
 # Strength
-* Give present availablity of the medicine to its customer.
-* System can be designed using C.
-* Use of virtual studio code ide for implementation.
+* Print the calender of exact date number with exact day.
+* 
 
 # Weakness
 
-*  Addition of new medicine details.
-* Numerous parameter to be considered for billing for adding details.
+*  calender  is improving by adding feature of particular day ,date is display.
+ 
 
 
 # Opportunity
-* Give exact information of product availability,price.
-* Medicine details is available for user.
+* Adding features like go to previous year ,month ,day
+* Next year date ,month.
 
 # Threat
-* Any corruption in the system may cause erase of complete file.
-* Malaware and any other virus attack on the system.
-* Sale of expired or banned medicine for customer.
+* Already advanced system is available .
 
 ## 5W & 1H
 # Who
 * User
 
 # When
-* when user wants to simplify task for maintain records.
+* when user wants to check date.
 
 # Where
-* Medicine store  application is helpful for pharamacy,medical shop.
+* In mobile, laptop, Pcs,
 
 # What
-* It is application for maintain record of medicines in store
+* It is application for calender which display date ,day.
 
 # How
-* By storing records of medicine and availibilty of the medicine.
+* By storing records of date, month, year.
 
 
