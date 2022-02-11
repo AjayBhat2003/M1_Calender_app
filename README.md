@@ -1,4 +1,4 @@
-# M1_Customer_billing_system_app
+# M1_Medical_store_app
 
 ## Milestone -1
 *Idea
