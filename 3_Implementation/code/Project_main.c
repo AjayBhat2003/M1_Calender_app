@@ -4,7 +4,9 @@
 int main()
 {
     int year,day,month ;
+    printf("enter year:");
     scanf("%d",&year);
+    printf("enter month and day:");
 scanf("%d%d",&day,&month);
 
     // Function Call
