@@ -21,7 +21,7 @@
 
 
 ## SWOT Analysis
-
+![swot](https://user-images.githubusercontent.com/89115879/154072372-7a2b26dc-b301-4eeb-af46-490e6990511f.PNG)
 
 ## 5W & 1H
 # Who
