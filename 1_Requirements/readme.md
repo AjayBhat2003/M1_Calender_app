@@ -7,49 +7,21 @@
 * Display Leap Year . 
 
 ##  High level requirements
-* Function that return index of day for date dd/mm/yy
-* Function that returns the name of the month for given number.
-* Function that return number of days in a month
-* Function to print the calender.  
+| ID | Descripton | category | Status |
+|----|---|---|---|
+| HLR1 |User menu display calender| Technical|Implemented|
+|HLR2|Display of Day|Technical|Implemented|
+|HLR3|Display Date and Month with respect to year|Technical|Implemented|
 
-## Low level Requirements
-# Function that return index of day for date dd/mm/yy
-* Month name,
-* Month Number
-
-# Function that returns the name of the month for given number.
-* Month name
-* Month number
-
-
-#  Function that return number of days in a month
-* Month number
-* year
-
-# Function to print the calender.  
-* year
-* Month name
-* Day Number
+## Low Level Requirement
+| ID |Description| Category | Status|
+|---|---|---|---|
+|LLR1|User choice of year of calender|Technical|Implemented|
+|LLR2|User choice of day, month with respect to year|Technical|Implemented|
 
 
 ## SWOT Analysis
 
-# Strength
-* Print the calender of exact date number with exact day.
-* 
-
-# Weakness
-
-*  calender  is improving by adding feature of particular day ,date is display.
- 
-
-
-# Opportunity
-* Adding features like go to previous year ,month ,day
-* Next year date ,month.
-
-# Threat
-* Already advanced system is available .
 
 ## 5W & 1H
 # Who
