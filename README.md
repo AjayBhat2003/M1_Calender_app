@@ -1,4 +1,4 @@
-# M1_Medical_store_app
+# M1_Calender_app
 
 ## Milestone -1
 *Idea
