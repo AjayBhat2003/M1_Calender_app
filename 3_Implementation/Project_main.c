@@ -3,7 +3,7 @@
 
 int main()
 {
-    int year,day,month ;
+    int year,day,month;
     printf("enter year:");
     scanf("%d",&year);
     printf("enetr day:/neneter month:");
