@@ -9,5 +9,5 @@
 ## Low level test Plan
 | Test ID|Description|Expected i/p|Expected o/p|Actual o/p|Type of test|Status|
 |---|---|---|---|---|---|---|
-|L_01|Calender details entered by user|Reading the input and display calender year|Reading the input and display calender year|Technical|completed|
-|L_02|Calender display|Display entire calender with correct weeknmae according to month|Display entire calender with correct weeknmae according to month|Technical|completed|
+|L_01|Calender details entered by user|Reading the input and display calender year|Reading the input and display calender year|Technical||completed|
+|L_02|Calender display|Display entire calender with correct weeknmae according to month|Display entire calender with correct weeknmae according to month|Technical||completed|
