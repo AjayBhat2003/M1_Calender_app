@@ -11,14 +11,15 @@ void teardown()
 
 }
 void test_dayNumber()
-{ int year=2022,day=28,month=02;
-    dayNumber(28,02,2022);
+{ 
+    s
 }
 
 int test_main()
 {
     UNITY_BEGIN();
     RUN_TEST(test_dayNumber);
+    RUN_TEST()
 
     return UNITY_END();
 
