@@ -12,8 +12,8 @@ void teardown()
 }
 void test_dayNumber()
 { 
-    int year=2022,day=28,month=02;
-    dayNumber(28,02,2022);
+    
+  TEST_ASSERT_EQUAL_DOUBLE_ARRAY( 28,02,2022);
 }
 
 
