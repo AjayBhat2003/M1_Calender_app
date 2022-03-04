@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: Build-Linux
 
 on:
   push:
@@ -13,11 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build Analysis
-      run: C/C++ CI enable=all 3_Implementation
     - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+      run: make run -C 3_Implementation 
