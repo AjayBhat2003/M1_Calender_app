@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: Makefile Analysis
-      run: C/C++ CI enable=all 3_Implementation
+      run: Makefile CI enable=all 3_Implementation
       
     - name: Install dependencies
       run: make
